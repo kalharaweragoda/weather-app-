@@ -32,5 +32,5 @@ Ensure you have **Node.js** installed on your machine.
 ### 🚀 Installation Steps
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/SanVidurath/Weather_app.git](https://github.com/SanVidurath/Weather_app.git)
-   cd Weather_app
+   git clone https://github.com/kalharaweragoda/weather-app-.git
+   
